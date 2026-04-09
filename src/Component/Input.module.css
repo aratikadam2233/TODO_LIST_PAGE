@@ -1,0 +1,12 @@
+.b1{
+    background-color:green;
+   
+    padding: 10px 50px 10px 50px;
+}
+.inmp
+{
+   display: flex;
+   margin: 50px;
+   justify-content: center;
+   gap: 100px;
+}

@@ -1,0 +1,21 @@
+.container {
+  width: 60%;
+  margin: 30px auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+p {
+  width: 30%;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+}
